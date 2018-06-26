@@ -1,0 +1,31 @@
+{
+  "name": "reactjs-testing",
+  "version": "1.0.0",
+  "description": "<h1>Playing around with ReactJS</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlephFive/ReactJS-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlephFive/ReactJS-Testing/issues"
+  },
+  "homepage": "https://github.com/AlephFive/ReactJS-Testing#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-react": "^6.24.1",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.12.1",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
